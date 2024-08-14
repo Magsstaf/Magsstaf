@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...not sure as of yet. Just starting out on my journey in coding.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...She
-- ⚡ Fun fact: ...Im 51 years young and 
+- ⚡ Fun fact: ...Im 51 years young and loving it!
 
 <!---
 Magsstaf/Magsstaf is a ✨ wonderful ✨ repository because its `README.md` (this file) appears on your GitHub profile.
