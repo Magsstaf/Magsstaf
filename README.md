@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Magsstaf
 - 👀 I’m interested in keeping fit and learning code!
 - 🌱 I’m currently learning code - a complete beginner. Its fascinating x
-- 💞️ I’m looking to collaborate on ...not sure as of yet. Just starting out on my journey in coding.
+- 💞️ I’m looking to collaborate on ...not sure as of yet. Just starting out on my coding journey.
 - 📫 How to reach me ... I'll be around
-- 😄 Pronouns: ...She
+- 😄 Pronouns: ... She
 - ⚡ Fun fact: ...Im 51 years young and loving it!
 
 <!---
